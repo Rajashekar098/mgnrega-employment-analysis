@@ -16,4 +16,5 @@ This project visualizes and analyzes public policy data from the Mahatma Gandhi 
 * `MGNREGA Telangana Aadhaar Seeding Status.xlsx`: The foundational dataset detailing Aadhaar integration and employment metrics for the region.
 
 ## Executive Dashboard
-[Click here to view the interactive MGNREGA Tableau Dashboard]([Paste-Your-Tableau-Public-Link-Here](https://public.tableau.com/app/profile/rajashekar.chinthala/viz/MGNREGA-Employment-Dashboard/Sheet1#1))
+[Click here to view the interactive MGNREGA Tableau Dashboard]([Paste-Your-Tableau-Public-Link-Here]
+(https://public.tableau.com/app/profile/rajashekar.chinthala/viz/MGNREGA-Employment-Dashboard/Sheet1)
